@@ -1,0 +1,13 @@
+:root {
+  font-family: 'Jomhuria';
+  color-scheme: light dark;
+  background-color: #43656d;
+
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
